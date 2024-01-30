@@ -1,4 +1,4 @@
-About different types of tables in spark managed and unmanaged in the query if you mention the location its an umanaged table can be indentified by decribe extended table_name query
+About different types of tables in spark managed and unmanaged in the SQL query for creating if you mention the location its an umanaged table can be indentified by decribe extended table_name query
 https://sparkbyexamples.com/spark/spark-types-of-tables-and-views/
 https://www.linkedin.com/pulse/should-i-use-parquet-files-delta-format-comparative-analysis-s-/
 
